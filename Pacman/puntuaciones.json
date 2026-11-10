@@ -1,0 +1,32 @@
+[
+    {
+        "id": "198756c0-c24f-4143-ae2b-82581979aac7",
+        "nombre": "damian",
+        "puntaje": 200,
+        "fecha": "28/10/2026 10:38"
+    },
+    {
+        "id": "3f1b1ff5-f75e-46b2-aae8-16ea9c375caa",
+        "nombre": "goku",
+        "puntaje": 1900,
+        "fecha": "28/10/2026 10:48"
+    },
+    {
+        "id": "d58460f5-77b1-4bbf-9db3-1877c009fc54",
+        "nombre": "laos",
+        "puntaje": 640,
+        "fecha": "28/10/2026 10:55"
+    },
+    {
+        "id": "c2afeb6a-e229-48e2-bacd-0fd4314cd3b0",
+        "nombre": "pepe",
+        "puntaje": 1660,
+        "fecha": "28/10/2026 12:20"
+    },
+    {
+        "id": "7693111d-1c84-4bc8-85f6-41036b578aee",
+        "nombre": "andrea",
+        "puntaje": 1860,
+        "fecha": "28/10/2026 17:16"
+    }
+]
